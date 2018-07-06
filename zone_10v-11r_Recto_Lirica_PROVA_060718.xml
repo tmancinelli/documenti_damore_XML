@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Agnese</forename>
+                  <surname>Macchiarelli</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt><p></p></publicationStmt>
+         <sourceDesc><p></p></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0024_fa_0010v-11r.jp2/full/full/0/default.jpg"/>
+         <zone points="662,135 819,129 830,513 677,520" xml:id="zone_10v-11r_Recto_Lirica"/>
+      </surface>
+   </facsimile>
+
+   <text>
+      <body>
+         <div type="Lirica">
+            <pb ed="MSS_Barb_lat_4076" facs="#zone_10v-11r_Recto_Lirica" xml:id="pb_10v-11r_Recto_Lirica" />
+            
+            
+            <pb ed="Egidi" n="111" xml:id="Egidi_lir_111"/>
+            <lg>
+            <l>Poi come fanno isaggi</l>
+            <l>senoli prende ritorna al tuo stato</l>
+            <l>ma non to qui parlato</l>
+            <l>del tutto basso ma del meno un poco</l>
+            </lg>
+            
+            <pb ed="Egidi" n="112" xml:id="Egidi_lir_112"/>
+            <lg>
+            <l>Che nel laltro non loco</l>  
+            <l>anno le dette cose ma tuttora</l>
+            <l>nel suo grado lonora</l>
+            <l>trahendo sempre al piu comio to detto</l>
+            </lg>
+            
+            <pb ed="Egidi" n="113" xml:id="Egidi_lir_113"/>
+            <lg>
+            <l>Quel cho del maggior detto</l>
+            <l>intendi sempre cole donne andando</l>
+            <l>etanto piu servando</l>
+            <l>che quando avrai li rei passi cercati</l>
+            </lg>
+           
+            <pb ed="Egidi" n="114" xml:id="Egidi_lir_114"/>
+            <lg>
+            <l>Torna da lun delati</l>
+            <l>alei secura tener e condurre</l>
+            <l>ma se te convien pure</l>
+            <l>per la stretteça passar solo et essa</l>
+            </lg>
+            
+            <pb ed="Egidi" n="115" xml:id="Egidi_lir_115"/>
+            <lg>
+            <l>Ritornando tappressa</l>
+            <l>per lutile soccorso darle accorto</l>
+            <l>e se periglio e porto</l>
+            <l>dallato darme avita la difendi</l>
+            </lg>
+            
+            <pb ed="Egidi" n="116" xml:id="Egidi_lir_116"/>
+            <lg>
+            <l>Se vai con due or prendi</l>
+            <l>chal maggior tocca il meço el gir inançi</l>
+            <l>se lun de due no avançi</l>
+            <l>toccal minor lo meço ma nol gire.</l>
+            </lg>
+           
+            <lg>
+            <l>E convien che dal dire</l>
+            <l>venga di lor non dal minor la presa</l>
+            <pb ed="Egidi" n="117" xml:id="Egidi_lir_117"/> 
+            <l>se non sia ben intesa</l>
+            <l>dandar lor dietro alquanto la sua mente</l>
+            </lg>
+            
+            <lg>
+            <l>In quattro non si pente</l>
+            <l>maggior opar ominor chirimane</l>
+            <l>tra molta gente vane</l>
+            <l>secondo gradi ela calca el piagere</l>
+            </lg>
+         
+         </div>
+      </body>
+   </text>
+</TEI>
